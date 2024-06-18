@@ -1,4 +1,7 @@
 - 👋 Hi, I’m Vivek Singh.
-- 👀 I’m interested in Data Analysis.
-- 📫 How to reach me https://about.me/viveksingh9573
-- My tableau link https://public.tableau.com/app/profile/vivek.singh3561.
+- 👀 I'm a Data Engineer and Power BI Developer.
+  
+- ## 🔗 Connect with Me
+- [LinkedIn] [https://www.linkedin.com/in/yourprofile]
+- [https://about.me/viveksingh9573]
+- [https://public.tableau.com/app/profile/vivek.singh3561]
